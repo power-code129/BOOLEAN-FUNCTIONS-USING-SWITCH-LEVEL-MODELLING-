@@ -1,0 +1,88 @@
+$date
+	Thu Apr 17 13:47:45 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_switch_level_logic $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 & ab $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 ' cd $end
+$var wire 1 % d $end
+$var wire 1 ! y $end
+$var wire 1 ( y1 $end
+$var wire 1 ) y2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+1!
+1(
+1&
+1"
+#20
+0!
+1#
+0(
+0&
+0"
+#30
+1!
+1)
+1'
+1$
+0#
+#40
+0!
+1%
+0)
+0'
+0$
+#50
+1!
+0%
+1#
+1(
+1&
+1"
+#60
+1%
+1)
+1'
+1$
+0#
+0(
+0&
+0"
+#70
+1#
+1(
+1&
+1"
+#80

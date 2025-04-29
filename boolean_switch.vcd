@@ -1,0 +1,134 @@
+$date
+	Thu Apr 17 13:35:49 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module boolean_switch_tb $end
+$var wire 1 ! Y $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % D $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ C $end
+$var wire 1 % D $end
+$var wire 1 & Gnd $end
+$var wire 1 ' Vdd $end
+$var wire 1 ! Y $end
+$var wire 1 ( n1 $end
+$var wire 1 ) n2 $end
+$var wire 1 * n3 $end
+$var wire 1 + n4 $end
+$var wire 1 , nor_out $end
+$var wire 1 - notB $end
+$var wire 1 . notC $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1.
+1-
+1,
+0+
+0*
+0)
+0(
+1'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10000
+1%
+#20000
+1(
+0,
+0.
+1$
+0%
+#30000
+1%
+#40000
+0-
+1.
+1#
+0$
+0%
+#50000
+1%
+#60000
+0.
+1$
+0%
+#70000
+1%
+#80000
+0(
+0!
+1,
+0)
+1-
+1.
+1"
+0#
+0$
+0%
+#90000
+1%
+#100000
+1!
+1)
+1(
+0,
+0.
+1*
+1$
+0%
+#110000
+1+
+1%
+#120000
+0-
+1.
+0*
+0+
+1#
+0$
+0%
+#130000
+1%
+#140000
+0.
+1*
+1$
+0%
+#150000
+1+
+1%
+#160000
+0(
+1,
+0!
+0)
+1-
+1.
+0*
+0+
+0"
+0#
+0$
+0%
+#170000
